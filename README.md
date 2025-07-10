@@ -9,4 +9,4 @@ General sequence of steps: <br>
 • Data exploration <br>
 • Model building <br>
 • Model evaluation  <br>
-• Business recommendation 
+• Findings and business recommendation 
