@@ -7,12 +7,12 @@ This capstone project utilises data from Kaggle, which can be accessed [here](ht
 General sequence of steps: <br> 
 • Data cleaning and exploration <br>
 → Checked for missing values, duplicates, and outliers. <br>
-- Performed encoding for categorical variables <br>
+→ Performed encoding for categorical variables <br>
 • Model Building <br>
-- Trained two models (Decision Tree and XGBoost) <br>
-- Used grid search for hyperparameter tuning <br>
-- Evaluated models using confusion matrices and classification report <br>
+→ Trained two models (Decision Tree and XGBoost) <br>
+→ Used grid search for hyperparameter tuning <br>
+→ Evaluated models using confusion matrices and classification report <br>
 • Findings <br>
-- Analysed feature importance <br>
+→ Analysed feature importance <br>
 • Business recommendations <br>
-- Translated model findings into actionable HR strategies
+→ Translated model findings into actionable HR strategies
