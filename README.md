@@ -7,6 +7,6 @@ This capstone project utilises data from Kaggle, which can be accessed [here](ht
 General sequence of steps: <br> 
 • Data cleaning <br>
 • Data exploration <br>
-• Model building <br>
+• Model building (Decision Tree and XGBoost) <br>
 • Model evaluation  <br>
 • Findings and business recommendation 
