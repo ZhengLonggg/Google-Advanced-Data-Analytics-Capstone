@@ -2,7 +2,7 @@
 Project overview: <br>
 This capstone project analyses HR data using Python to identify key factors of employee attrition and provide recommendations for improving employee retention. Using machine learning techniques, I built predictive models to determine which factors contribute most to attrition. <br> <br>
 Source: <br>
-This capstone project utilises data from Kaggle, which can be accessed [here](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/discussion/454737)
+This capstone project utilises data from Kaggle, which can be accessed [here](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data)
 <br><br>
 General sequence of steps: <br> 
 1) Data cleaning and exploration <br>
