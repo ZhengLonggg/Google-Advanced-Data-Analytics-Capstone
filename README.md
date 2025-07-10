@@ -5,8 +5,14 @@ Source: <br>
 This capstone project utilises data from Kaggle, which can be accessed [here](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/discussion/454737)
 <br><br>
 General sequence of steps: <br> 
-• Data cleaning <br>
-• Data exploration <br>
-• Model building (Decision Tree and XGBoost) <br>
-• Model evaluation  <br>
-• Findings and business recommendation 
+• Data cleaning and exploration <br>
+- Checked for missing values, duplicates, and outliers. <br>
+- Performed encoding for categorical variables <br>
+• Model Building <br>
+- Trained two models (Decision Tree and XGBoost) <br>
+- Used grid search for hyperparameter tuning <br>
+- Evaluated models using confusion matrices and classification report <br>
+• Findings <br>
+- Analysed feature importance <br>
+• Business recommendations <br>
+- Translated model findings into actionable HR strategies
