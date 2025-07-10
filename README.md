@@ -6,7 +6,7 @@ This capstone project utilises data from Kaggle, which can be accessed [here](ht
 <br><br>
 General sequence of steps: <br> 
 • Data cleaning and exploration <br>
-- Checked for missing values, duplicates, and outliers. <br>
+→ Checked for missing values, duplicates, and outliers. <br>
 - Performed encoding for categorical variables <br>
 • Model Building <br>
 - Trained two models (Decision Tree and XGBoost) <br>
