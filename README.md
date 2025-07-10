@@ -12,7 +12,7 @@ General sequence of steps: <br>
 2) Model Building <br>
 → Trained two models (Decision Tree and XGBoost) <br>
 → Used grid search for hyperparameter tuning <br>
-→ Evaluated models using confusion matrices and classification report <br> <br>
+→ Evaluated models using confusion matrices and classification reports <br> <br>
 3) Findings <br>
 → Utilised champion model to analyse feature importance <br> <br>
 4) Business recommendations <br>
